@@ -12,3 +12,4 @@ This repository contains the certificates related to all the online courses that
 #### 09. [COURSE - VERSION CONTROL | BY - META | NOV 9, 2022](https://drive.google.com/file/d/12ei3VqfgNnK3hm3BA22Xq3yeB7x5vSUm/view?usp=share_link)
 #### 10. [COURSE - HTML & CSS IN DEPTH | BY - META | NOV 20, 2022](https://drive.google.com/file/d/1XhyZI9bnzG5MHXa5XSru1S6r33Fg8Oth/view?usp=share_link)
 #### 11. [COURSE - REACT BASICS | BY - META | NOV 23, 2022](https://drive.google.com/file/d/1LrdZwz97fY5e1cnei7UEATlEWCMml2SD/view?usp=share_link)
+#### 12. [COURSE - ADVANCED REACT | BY - META | NOV 26, 2022](https://drive.google.com/file/d/1LZ_R4gdkUbdR8LkJ0yjA8kOfTfbTiurV/view?usp=share_link)
